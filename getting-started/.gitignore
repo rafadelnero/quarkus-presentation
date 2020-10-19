@@ -10,9 +10,6 @@ bin/
 *.iml
 *.iws
 
-# Git
-.git
-
 # NetBeans
 nb-configuration.xml
 
